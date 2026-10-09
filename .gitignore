@@ -41,3 +41,20 @@ example
 # generated native folders
 /ios
 /android
+
+
+# Archivos temporales de Visual Studio
+.vs/
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos generados
+dist/
+build/
+
+!.env.example

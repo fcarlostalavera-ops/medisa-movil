@@ -16,12 +16,10 @@ import { useRouter } from 'expo-router';
 export default function PantallaLogin() {
   const router = useRouter();
   
-  // Estados para manejar los inputs
   const [correo, setCorreo] = useState('');
   const [password, setPassword] = useState('');
   const [mostrarPassword, setMostrarPassword] = useState(false);
 
-  // Función simulada para iniciar sesión
   const manejarLogin = () => {
     // Aquí en el futuro conectarás con tu backend (API REST)
     // Por ahora, al presionar "Ingresar", reemplazamos la ruta para ir al Dashboard

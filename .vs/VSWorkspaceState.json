@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\assets\\images\\tabIcons",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\(tabs)",
-    "\\src\\components"
+    ""
   ],
-  "SelectedNode": "\\src\\app\\registro.tsx",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
